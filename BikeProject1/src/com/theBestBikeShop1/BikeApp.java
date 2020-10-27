@@ -15,6 +15,7 @@ public class BikeApp {
 		Mountainbike mountBike2= new Mountainbike(6,7, true, true, true);
 		mountBike1.currentState();
 		System.out.println();
+		System.out.println("blabl");
 		mountBike2.currentState();
 		
 	}
